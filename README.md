@@ -1,1 +1,2 @@
 # Autonomous-Fire-Fighting-Robot-Using-Arduino-UNO
+An autonomous fire_fighting robot using Arduino UNO is a self_operating machine designed to detect and extinguish fires. It typically uses sensors such as flame sensors or infrared sensors to locate the fire source. The Arduino UNO process the sensor data to navigate the robot toward the fire. Equipped with water pumps or robot then activates its firefighting mechanism to suppress the fire.The systems design focuses on quick response,mobility,and accuracy in detecting and targeting the fire.
